@@ -4,8 +4,8 @@ Este proyecto contiene dos versiones del mismo sistema de gestión de abonos y c
 
 ## 📦 Contenido
 
-- **`abonos-1.py`** → Versión de consola, más completa y robusta, con interacción por terminal.
-- **`app.py`** → Versión web basada en Streamlit, con interfaz gráfica moderna.
+- **`abonos-1.py`** → Versión de consola, con interacción por terminal.
+- **`app.py`** → Versión web basada en Streamlit, con una pequeña interfaz gráfica. Aún en desarrollo. Podés editarla a tu gusto y placer.
 
 ---
 
