@@ -32,3 +32,15 @@ Instalación rápida:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## ▶️ Uso
+1. Modo consola
+python abonos-1.py
+
+Ideal para testeo y posterior desarrollo.
+
+2. Modo web
+streamlit run app.py
+
+Abre el panel visual en tu navegador (http://localhost:8501)
