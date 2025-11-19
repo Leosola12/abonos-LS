@@ -1,3 +1,20 @@
-streamlit
-pandas
-colorama
+# Dependencias para el Sistema de Gestión de Abonos
+# Python 3.8+
+
+# Framework Web
+streamlit>=1.28.0
+
+# Análisis de datos
+pandas>=2.0.0
+
+# Base de datos
+# sqlite3 viene incluido en Python
+
+# Reportes PDF
+reportlab>=4.0.7
+
+# Procesamiento de imágenes (requerido por reportlab)
+pillow>=10.1.0
+
+# Manejo de fechas
+python-dateutil>=2.8.2
